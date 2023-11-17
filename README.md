@@ -1,4 +1,4 @@
-# Awesome Space Research
+# Awesome Space Safety and Sustainability
 
 A curated list of works focusing on space safety and sustainability research, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
@@ -33,7 +33,5 @@ A curated list of works focusing on space safety and sustainability research, in
 ## Space Debris Tracking Services
 
 ## FAQs
-- What is the list?
-- What only these areas?
-- WHat is the criteria for including papers on this list?
-- I have a paper I want to put on the list.
+### I have a paper I want to put on the list. 
+- Please submit a pull request.

@@ -31,17 +31,16 @@ A curated list of works focusing on space safety and sustainability research, in
 
 ## Satellite Maneuver Planning
 
-- Qiu, Wei, and Chao Xu. ["Attitude maneuver planning of agile satellites for time delay integration imaging"](https://arc.aiaa.org/doi/abs/10.2514/1.G003649). Journal of Guidance, Control, and Dynamics 43, no. 1, 2020.
-- You, Li, and Ye Dong. ["Near time-optimal controller based on analytical trajectory planning algorithm for satellite attitude maneuver"](https://www.sciencedirect.com/science/article/abs/pii/S1270963818311088) Aerospace Science and Technology 84 (2019)
+- Campbell, Mark E. ["Planning algorithm for multiple satellite clusters."](https://arc.aiaa.org/doi/abs/10.2514/2.5111?journalCode=jgcd) Journal of Guidance, Control, and Dynamics 26, no. 5, 2003.
+- Izzo, Dario, and Lorenzo Pettazzi. ["Autonomous and distributed motion planning for satellite swarm."](https://arc.aiaa.org/doi/abs/10.2514/1.22736) Journal of Guidance, Control, and Dynamics 30, no. 2, 2007.
+- Mueller, Joseph B., Paul R. Griesemer, and Stephanie J. Thomas. ["Avoidance maneuver planning incorporating station-keeping constraints and automatic relaxation."](https://arc.aiaa.org/doi/abs/10.2514/1.54971) Journal of Aerospace Information Systems 10, no. 6, 2013.
+- Xu, Rui, Changqing Wu, Shengying Zhu, Baodong Fang, Wei Wang, Lida Xu, and Wu He. ["A rapid maneuver path planning method with complex sensor pointing constraints in the attitude space."](https://link.springer.com/article/10.1007/s10796-016-9642-1) Information Systems Frontiers 19, 2017.
+- You, Li, and Ye Dong. ["Near time-optimal controller based on analytical trajectory planning algorithm for satellite attitude maneuver"](https://www.sciencedirect.com/science/article/abs/pii/S1270963818311088) Aerospace Science and Technology 84, 2019.
 - Zhang, Xiaohua, Xiang Zhang, Zhengliang Lu, and Wenhe Liao. ["Optimal path planning-based finite-time control for agile CubeSat attitude maneuver."](https://ieeexplore.ieee.org/abstract/document/8756274/) IEEE Access , 2019.
+- Qiu, Wei, and Chao Xu. ["Attitude maneuver planning of agile satellites for time delay integration imaging"](https://arc.aiaa.org/doi/abs/10.2514/1.G003649). Journal of Guidance, Control, and Dynamics 43, no. 1, 2020.
 - Celani, Fabio, and Dennis Lucarelli. ["Spacecraft attitude motion planning using gradient-based optimization."](https://arc.aiaa.org/doi/abs/10.2514/1.G004531?journalCode=jgcd) Journal of Guidance, Control, and Dynamics 43, no. 1, 2020.
 - He, Liang, Tao Sheng, Krishna Dev Kumar, Yong Zhao, Dechao Ran, and Xiaoqian Chen. ["Attitude maneuver of a satellite using movable masses."](https://www.sciencedirect.com/science/article/abs/pii/S0094576520303866) Acta Astronautica 176, 2020.
 - Zinjanabi, Ali Mehrparwar, Hossein Nejat Pishkenari, Hassan Salarieh, and Taleb Abdollahi. ["Attitude control of an underactuated satellite in presence of disturbance torque with optimal motion planning."](https://www.sciencedirect.com/science/article/abs/pii/S1270963821008361) Aerospace Science and Technology 121, 2022.
-- Campbell, Mark E. ["Planning algorithm for multiple satellite clusters."](https://arc.aiaa.org/doi/abs/10.2514/2.5111?journalCode=jgcd) Journal of Guidance, Control, and
-  Dynamics 26, no. 5, 2003.
-- Mueller, Joseph B., Paul R. Griesemer, and Stephanie J. Thomas. ["Avoidance maneuver planning incorporating station-keeping constraints and automatic relaxation."](https://arc.aiaa.org/doi/abs/10.2514/1.54971) Journal of Aerospace Information Systems 10, no. 6, 2013.
-- Xu, Rui, Changqing Wu, Shengying Zhu, Baodong Fang, Wei Wang, Lida Xu, and Wu He. ["A rapid maneuver path planning method with complex sensor pointing constraints in the attitude space."](https://link.springer.com/article/10.1007/s10796-016-9642-1) Information Systems Frontiers 19, 2017.
-- Izzo, Dario, and Lorenzo Pettazzi. ["Autonomous and distributed motion planning for satellite swarm."](https://arc.aiaa.org/doi/abs/10.2514/1.22736) Journal of Guidance, Control, and Dynamics 30, no. 2, 2007.
 
 ## Space Traffic Management
 

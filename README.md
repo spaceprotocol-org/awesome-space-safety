@@ -14,6 +14,7 @@ A curated list of works focusing on space safety and sustainability research, in
 - [Debris Removal](#debris-removal)
 - [Space Sustainability Ratings](#space-sustainability-ratings)
 - [Space Debris Tracking](#space-debris-tracking)
+- [Awesome space lists](#awesome-space-lists)
 - [FAQs](#faqs)
 
 ## Conjunction Analysis and Collision Avoidance
@@ -87,7 +88,6 @@ A curated list of works focusing on space safety and sustainability research, in
 - Taini, Giacomo, Andrea Pietropaolo, and Anna Notarantonio. ["Criteria and trade-offs for LEO orbit design."](https://ieeexplore.ieee.org/iel5/4505446/4526225/04526281.pdf) In 2008 IEEE Aerospace Conference, pp. 1-11. IEEE, 2008.
 - Abdelkhalik, Ossama, and Ahmed Gad. ["Optimization of space orbits design for Earth orbiting missions."](https://www.sciencedirect.com/science/article/pii/S0094576510003796) Acta Astronautica 68, no. 7-8, 2011.
 - Mortazavi, Seyed Hossein. ["Orbit selection trade-offs for LEO observation microsatellites."](https://arc.aiaa.org/doi/pdf/10.2514/6.2015-4501) In AIAA Space 2015 Conference and Exposition, p. 4501. 2015.
--
 
 ## Debris Removal
 
@@ -119,6 +119,10 @@ A curated list of works focusing on space safety and sustainability research, in
 - Bennet, Francis, Celine D’Orgeville, Yue Gao, William Gardhouse, Nicolas Paulin, Ian Price, Francois Rigaut et al. ["Adaptive optics for space debris tracking."](https://openresearch-repository.anu.edu.au/bitstream/1885/65363/2/01_Bennet_Adaptive_optics_for_space_2014.pdf) In Adaptive Optics Systems IV, vol. 9148, pp. 518-526. SPIE, 2014.
 - Sang, Jizhang, James C. Bennett, and Craig Smith. ["Experimental results of debris orbit predictions using sparse tracking data from Mt. Stromlo."](https://www.sciencedirect.com/science/article/pii/S0094576514002112) Acta Astronautica 102 2014.
 - Felicetti, Leonard, and M. Reza Emami. ["Image-based attitude maneuvers for space debris tracking."](https://www.sciencedirect.com/science/article/pii/S1270963817316425) Aerospace science and technology 76, 2018.
+
+## Awesome space lists
+
+- [awesome space](https://github.com/orbitalindex/awesome-space) : Code and APIs for space
 
 ## FAQs
 

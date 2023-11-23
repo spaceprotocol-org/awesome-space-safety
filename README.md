@@ -13,7 +13,7 @@ A curated list of works focusing on space safety and sustainability research, in
 - [Orbit Selection and Optimization](#orbit-selection-and-optimization)
 - [Debris Removal](#debris-removal)
 - [Space Sustainability Ratings](#space-sustainability-ratings)
-- [Space Debris Tracking Services](#space-debris-tracking-services)
+- [Space Debris Tracking](#space-debris-tracking)
 - [FAQs](#faqs)
 
 ## Conjunction Analysis and Collision Avoidance
@@ -106,8 +106,8 @@ A curated list of works focusing on space safety and sustainability research, in
 - Rathnasabapathy, Minoo, Danielle Wood, F. Letizia, S. Lemmens, M. Jah, A. Schiller, C. Christensen et al. ["Space sustainability rating: Designing a composite indicator to incentivise satellite operators to pursue long-term sustainability of the space environment."](https://dspace.mit.edu/bitstream/handle/1721.1/131216/IAC%202020%20Manuscript%20October.pdf?sequence=2&isAllowed=y) (2020).
 - Letizia, Francesca, Stijn Lemmens, Danielle Wood, Minoo Rathnasabapathy, Miles Lifson, Riley Steindl, Kristi Acuff, Moriba Jah, Simon Potter, and Nikolai Khlystov. ["Framework for the space sustainability rating."](https://spacesustainabilityrating.org/wp-content/uploads/2023/04/ECSD2021_SSRframework.pdf) In 8th European Conference on Space Debris, p. 72. 2021.
 - Steindl, Riley M. ["Developing the detectability, identifiability, and trackability analysis for the space sustainability rating."](https://dspace.mit.edu/bitstream/handle/1721.1/130865/1252632107-MIT.pdf?sequence=1&isAllowed=y) PhD diss., Massachusetts Institute of Technology, 2021.
-- SAADA, Adrien, Emmanuelle David, Jean-Paul Kneib, Mathieu Udriot, Danielle Wood, Maya Slavin, Riley Steindl et al. ["Promoting responsible space practices: A primer on the Space Sustainability Rating."](https://spacesustainabilityrating.org/wp-content/uploads/2023/08/AEC2023_SSR_Paper.pdf), 2023.
 - Rathnasabapathy, Minoo, Danielle Wood, Francesca Letizia, Stijn Lemmens, Moriba Jah, Simon Potter, Nikolai Khlystov et al. ["Implementing the space sustainability rating: an innovative tool to foster long-term sustainability in orbit."](https://spacesustainabilityrating.org/wp-content/uploads/2023/08/IAC-2021-Implementing-the-Space-Sustainability-Rating.pdf) In 72nd International Astronautical Congress, Dubai, United Arab Emirates, 25–29 October. 2021.
+- SAADA, Adrien, Emmanuelle David, Jean-Paul Kneib, Mathieu Udriot, Danielle Wood, Maya Slavin, Riley Steindl et al. ["Promoting responsible space practices: A primer on the Space Sustainability Rating."](https://spacesustainabilityrating.org/wp-content/uploads/2023/08/AEC2023_SSR_Paper.pdf), 2023.
 
 ## Space Debris Tracking
 
